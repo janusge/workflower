@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "PHPMentors\\Workflower\\": "src/"
+            "koala\\Workflower\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PHPMentors\\Workflower\\": "tests/"
+            "koala\\Workflower\\": "tests/"
         }
     },
     "extra": {
