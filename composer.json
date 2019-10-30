@@ -1,5 +1,5 @@
 {
-    "name": "phpmentors/workflower",
+    "name": "koala/workflower",
     "type": "library",
     "description": "A BPMN 2.0 workflow engine for PHP",
     "keywords": ["flow", "workflow", "process", "bpm", "bpmn", "bpms"],
