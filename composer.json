@@ -1,5 +1,5 @@
 {
-    "name": "koala/workflower",
+    "name": "phpmentors/workflower",
     "type": "library",
     "description": "A BPMN 2.0 workflow engine for PHP",
     "keywords": ["flow", "workflow", "process", "bpm", "bpmn", "bpms"],
@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "koala\\Workflower\\": "src/"
+            "PHPMentors\\Workflower\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "koala\\Workflower\\": "tests/"
+            "PHPMentors\\Workflower\\": "tests/"
         }
     },
     "extra": {
